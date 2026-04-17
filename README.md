@@ -1,4 +1,4 @@
-﻿﻿# Prince Found — Gestão de Cosméticos
+﻿﻿# Prince Found 
 
 Este sistema foi desenvolvido como uma **Situação de Aprendizagem (SA)** para consolidar conceitos de desenvolvimento Full Stack. A aplicação é focada no gerenciamento de estoque para o setor de cosméticos, unindo uma interface web funcional a uma API robusta construída com Django.
 
