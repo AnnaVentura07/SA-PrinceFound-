@@ -61,5 +61,5 @@ API: /api/ (Acesso aos dados serializados via REST).
 Admin: /admin/ (Gerenciamento de banco de dados nativo do Django).
 
 Desenvolvido por: Anna Luisa dos Santos Ventura
-Projeto Acadêmico: Situação de Aprendizagem (SA).
+
 
